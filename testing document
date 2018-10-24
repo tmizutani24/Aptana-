@@ -1,0 +1,39 @@
+   <!--startup code and titles and stuff-->
+<!doctype html>
+<html lang= "en">
+<head>
+<meta charset="utf-8">
+<title> testing </title>
+</head>
+
+
+   <!--main display stuff-->
+<h2>
+<ul>
+<a href="https://www.thomasandfriends.com/en-ca/" target="_blank">
+click me 
+</a>
+</ul>
+<h2>
+<image src="https://upload.wikimedia.org/wikipedia/en/d/dc/Thomas_Tank_Engine_1.JPG">
+<image src="https://media.giphy.com/media/zza6auqlUqJQA/giphy.gif">
+
+   <!--styles-->
+<style>
+head {
+	font-style: italic;
+	font-weight: bold;
+}
+a: link {
+	color: black;
+	text-decoration: none;
+}
+a: hover {
+	background-color: black;
+	color: white;
+}
+a: visited {
+	color: blue;
+}
+</style>
+</html>
