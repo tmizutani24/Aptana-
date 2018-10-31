@@ -1,0 +1,12 @@
+<!doctype html>
+<title>Javhtml practice</title>
+
+<style>
+</style>
+
+<p id="info"></p>
+
+<script>
+var info= document.querySelector("#info");
+info.innerHTML="HELLO WORLD";
+</script>
